@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/aws-lambda-d
+aws-lambda-d.so
+aws-lambda-d.dylib
+aws-lambda-d.dll
+aws-lambda-d.a
+libaws-lambda-d.a
+aws-lambda-d.lib
+aws-lambda-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
