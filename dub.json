@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Andre Pany"
+	],
+	"copyright": "Amazon.com, Inc. or its affiliates.",
+	"description": "D implementation of the AWS Lambda runtime.",
+	"license": "Apache-2.0",
+	"name": "aws-lambda-d",
+	"libs": ["curl"]
+}
